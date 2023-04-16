@@ -1,0 +1,50 @@
+[
+    {
+        "question": "Which of the following is the capital of India?",
+        "choice1": "Mumbai",
+        "choice2": "New Delhi",
+        "choice3": "Bangalore",
+        "choice4": "Chennai",
+        "answer": 2
+    },
+    {
+        "question": "Which of the following is the capital of New Zealand?",
+        "choice1": "Okiato",
+        "choice2": "Canberra",
+        "choice3": "Auckland",
+        "choice4": "Wellington",
+        "answer": 4
+    },
+    {
+        "question": "Which of the following is the capital of Jamaica?",
+        "choice1": "Port Royal",
+        "choice2": "Montego Bay",
+        "choice3": "Kingston",
+        "choice4": "Negril",
+        "answer": 3
+    },
+    {
+        "question": "Which of the following is the capital of Bangladesh?",
+        "choice1": "Chattat",
+        "choice2": "Dhaka",
+        "choice3": "Jakarta",
+        "choice4": "Barishal",
+        "answer": 2
+    },
+    {
+        "question": "Which of the following is the capital of USA?",
+        "choice1": "Phoenix",
+        "choice2": "Chicago",
+        "choice3": "Atlanta",
+        "choice4": "Washington DC",
+        "answer": 4
+    },
+    {
+        "question": "Which of the following is the capital of Egypt?",
+        "choice1": "Alexandria",
+        "choice2": "Cairo",
+        "choice3": "Luxor",
+        "choice4": "Memphis",
+        "answer": 2
+    }
+]
